@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This is the implementation of our work <a href="https://arxiv.org/abs/1909.00157">Improving Back-Translation with Uncertainty-based Confidence Estimation</a> (EMNLP 2019). 
+This is the implementation of our work <a href="https://arxiv.org/abs/1909.00157">Improving Back-Translation with Uncertainty-based Confidence Estimation</a>. 
 
 <pre><code>@inproceedings{Wang:2019:EMNLP,
     title = "Improving Back-Translation with Uncertainty-based Confidence Estimation",
