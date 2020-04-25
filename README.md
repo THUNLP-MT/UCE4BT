@@ -7,7 +7,17 @@
 
 ## Introduction
 
-This is the implementation of our work <a href="https://arxiv.org/abs/1909.00157">Improving Back-Translation with Uncertainty-based Confidence Estimation</a> (EMNLP 2019). The implementation is on top of [THUMT](https://github.com/thumt/THUMT).
+This is the implementation of our work <a href="https://arxiv.org/abs/1909.00157">Improving Back-Translation with Uncertainty-based Confidence Estimation</a> (EMNLP 2019). 
+
+<pre><code>@inproceedings{Wang:2019:EMNLP,
+    title = "Improving Back-Translation with Uncertainty-based Confidence Estimation",
+    author = "Wang, Shuo and Liu, Yang and Wang, Chao and Luan, Huanbo and Sun, Maosong",
+    booktitle = "EMNLP",
+    year = "2019"
+}
+</code></pre>
+
+The implementation is on top of [THUMT](https://github.com/thumt/THUMT).
 
 ## Prerequisites
 This repository runs in the same environment as THUMT, please refer to <a href="https://github.com/THUNLP-MT/THUMT/blob/master/UserManual.pdf">the user manual of THUMT</a> to config the environment.
